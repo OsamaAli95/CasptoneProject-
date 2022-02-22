@@ -1,4 +1,4 @@
-# IBM Data SCience CasptoneProject
+# IBM Data Science CasptoneProject
 ## This is the last course of the ibm data science professional certificate program 
 
 In this capstone, we predicted if the Falcon 9 first stage will land successfully. SpaceX advertise Falcon 9  rockett
